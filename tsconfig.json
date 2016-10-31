@@ -1,0 +1,16 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": false,
+        "sourceMap": true,
+        "target": "es5",
+        "typeRoots": [
+            "./typings"
+        ]
+    },
+    "files": [
+        "./Dictionary.ts",
+        "./MappingTypes.ts",
+        "./Mapper.ts"
+    ]
+}
